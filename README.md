@@ -1,2 +1,2 @@
 # ml-project-credit-risk-model
-Machine Learning Model: Credit Risk M
+Machine Learning Model: Credit Risk Modeling
