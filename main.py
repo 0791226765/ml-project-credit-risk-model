@@ -61,4 +61,4 @@ if st.button('Calculate Risk'):
     st.write(f"Rating: {rating}")
 
 # Footer
-# st.markdown('_Project From Codebasics ML Course_')
+# st.markdown('_Project by Victor Langat')
