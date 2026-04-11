@@ -2,7 +2,7 @@ import streamlit as st
 from prediction_helper import predict  # Ensure this is correctly linked to your prediction_helper.py
 # Set the page configuration and title
 st.set_page_config(page_title="Credit Risk Modelling", page_icon="📊")
-st.title("Lauki Finance: Credit Risk Modelling")
+st.title("Credit Risk Modelling")
 
 # Create rows of three columns each
 row1 = st.columns(3)
